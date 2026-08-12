@@ -22,4 +22,7 @@ response = llm.invoke(question)
 response.content
 response.response_metadata
 
+Stream_response
+Save final answer as an object.
+
 
